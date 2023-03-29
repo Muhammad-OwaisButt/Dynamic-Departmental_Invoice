@@ -1,0 +1,17 @@
+input{
+    justify-content: space-between;
+}
+._main{
+    width: 60%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid black;
+    padding: 10px;
+}
+._hr{
+    visibility: hidden;
+}
+table, th, td{
+    text-align: center;
+}
